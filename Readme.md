@@ -1,4 +1,4 @@
-# IoT-DDoS-detection-with-SDN-simulator
+# IoT DDoS detection with SDN simulator
 
 ## Description
 
