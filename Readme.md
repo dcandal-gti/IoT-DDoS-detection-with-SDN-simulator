@@ -50,6 +50,6 @@ This script same preset collections of scenarios with the aim of generating data
 
 ## Copyright
 
-Copyright ⓒ 2020 David Candal Ventureira <dcandal@gti.uvigo.es>.
+Copyright ⓒ 2020 David Candal Ventureira <dcandal@gti.uvigo.es> y Pablo Fondo Ferreiro <pfondo@gti.uvigo.es>.
 
 This simulator is licensed under the GNU General Public License, version 3 (GPL-3.0). For more information see LICENSE.txt
